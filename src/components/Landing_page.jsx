@@ -24,8 +24,8 @@ function Landing_page() {
         </div>
         <div class="col-sm-6 my-auto px-5">
           <span className='buttonlogin text-center d-flex'>
-            <button type="button" class="btn  btn-md ">Sign In</button>
-            <button type="button" class="btn  btn-md ">Join In</button>
+            <button type="button" class="btn  btn-md d-flex">Sign In</button>
+            <button type="button" class="btn  btn-md d-flex">Join In</button>
           </span>
           <div class="card my-3 border-0 ">
             <div class="card-body ">
