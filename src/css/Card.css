@@ -1,0 +1,34 @@
+secondry{
+    color: rgb(128, 100, 162);
+}
+.add{
+    font-weight: 700;
+    font-size: 1rem;
+}
+.special{
+   
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
+.testimonial{
+    margin-top: 5rem;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    background-color: rgb(235, 223, 250);
+}
+.hobby{
+    color: white;
+    font-size: 20px;
+    background-color: rgb(128, 100, 162);
+    margin-top: 2rem;
+    width: 8rem;
+}
+.hobbycontainer{
+    margin-left: 5rem;
+    margin-right: 5rem;
+    margin-top: 5rem;
+
+}
+.imgresponsive{
+    width: 100%;
+}
