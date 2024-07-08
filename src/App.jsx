@@ -8,17 +8,19 @@ import Navbar from './components/Navbar.jsx';
 import Landing_page from './components/Landing_page.jsx';
 import Card from './components/Card.jsx';
 import Footer from './components/Footer.jsx';
+import { HashRouter } from 'react-router-dom';
 function App() {
  
 
   return (
-    <>
-     
-     <Navbar></Navbar>
-     <Landing_page></Landing_page>
-     <Card></Card>
-     <Footer></Footer>
-    </>
+    
+    <HashRouter basename='/'>
+     <Navbar/>
+     <Landing_page/>
+     <Card/>
+     <Footer/>
+
+    </HashRouter>
   )
 }
 
