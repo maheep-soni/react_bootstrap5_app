@@ -19,7 +19,6 @@ function App() {
      <Landing_page/>
      <Card/>
      <Footer/>
-
     </HashRouter>
   )
 }
